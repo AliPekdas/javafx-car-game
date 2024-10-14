@@ -3,9 +3,6 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Line;
 
-//Ali Doğan Pekdaş 150123014
-//Ebubekir Bağdaş 150122053
-//Doğukan Şahin 150122043
 public class TrafficLight extends Pane {
     // Declaration of instance variables
     private double x1;
