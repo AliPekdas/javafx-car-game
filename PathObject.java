@@ -1,9 +1,7 @@
 import javafx.scene.shape.LineTo;
 import javafx.scene.shape.MoveTo;
 import javafx.scene.shape.Path;
-//Ali Doğan Pekdaş 150123014
-//Ebubekir Bağdaş 150122053
-//Doğukan Şahin 150122043
+
 public class PathObject extends Path {
     // Declaration of instance variables
     private int indexOfPath; // Index of the path object
