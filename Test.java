@@ -15,9 +15,7 @@ import javafx.scene.shape.Path;
 import javafx.stage.Stage;
 import java.io.File;
 import java.io.FileNotFoundException;
-//Ali Doğan Pekdaş 150123014
-//Ebubekir Bağdaş 150122053
-//Doğukan Şahin 150122043
+
 public class Test extends Application {
     // ArrayLists to hold data for various map elements
     private static ArrayList<Metadata> metadatas = new ArrayList<>();
