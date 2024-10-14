@@ -8,9 +8,6 @@ import javafx.geometry.Insets;
 import javafx.geometry.VPos;
 import javafx.scene.layout.GridPane;
 
-//Ali Doğan Pekdaş 150123014
-//Ebubekir Bağdaş 150122053
-//Doğukan Şahin 150122043
 public class Building extends Pane {
     // Declaration of instance variables
 	private int buildingOfType;
