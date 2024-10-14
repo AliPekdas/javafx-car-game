@@ -16,9 +16,7 @@ import javafx.scene.text.FontWeight;
 import javafx.util.Duration;
 
 import java.util.ArrayList;
-//Ali Doğan Pekdaş 150123014
-//Ebubekir Bağdaş 150122053
-//Doğukan Şahin 150122043
+
 public class CarMovement extends Pane {
     // Declaration of instance variables
     private AnimationTimer timer;
